@@ -20,11 +20,11 @@ Repositori ini berisi konfigurasi, skrip, dan dokumentasi terkait jaringan mengg
 ## 🚀 Cara Penggunaan
 1. Clone repositori ini:
    ```sh
-   git clone https://github.com/Tirta2241720045/cisco.git
+   git clone https://github.com/Tirta2241720045/Cisco.git
    ```
 2. Buka folder sesuai kebutuhan, misalnya untuk melihat konfigurasi dasar:
    ```sh
-   cd cisco/configs
+   cd Cisco/configs
    ```
 3. Gunakan skrip atau konfigurasi yang tersedia sesuai dengan kebutuhan jaringan Anda.
 
